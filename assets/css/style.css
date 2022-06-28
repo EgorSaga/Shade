@@ -94,7 +94,7 @@ body {
         letter-spacing: -1px;
         font-family: 'Poppins', sans-serif;
     }
-    #foto,#foto2,#foto3,#foto4,#foto5,#foto6,#foto7  {
+  #foto,#foto2,#foto3,#foto4,#foto5,#foto6,#foto7,#foto8,#foto9  {
         position: relative;
     }
     #foto {
@@ -125,8 +125,16 @@ body {
         top: 2199px;
         left: 153px;
     }
+    #foto8 {
+        top: 2470px;
+        left: 695px;
+    }
+    #foto9 {
+        top: 2575px;
+        left: 840px;
+    }
 
-    #text {
+    #text,#text2,#text3,#text4 {
         position: relative;
     }
     #text {
@@ -138,14 +146,54 @@ body {
         line-height: 50px;
         font-family: 'Poppins', sans-serif;
     }
-    #Ptext {
+    #text2 {
+        font-size: 28pt;
+        text-align: left;
+        top: 1850px;
+        left: 1050px;
+        line-height: 50px;
+        font-family: 'Poppins', sans-serif;
+    }
+    #text3 {
+        font-size: 28pt;
+        text-align: left;
+        top: 2250px;
+        left: 380px;
+        line-height: 50px;
+        font-family: 'Poppins', sans-serif;
+    }
+    #text4 {
+        font-size: 35pt;
+        text-align: left;
+        top: 2570px;
+        left: 570px;
+        line-height: 50px;
+        font-family: 'Poppins', sans-serif;
+    }   
+    #Ptext,#Ptext2,#Ptext3 {
         position: relative;
     }
     #Ptext {
         font-size: 11pt;
         text-align: left;
-        top: 1445px;
+        top: 1100px;
         left: 385px;
+        line-height: 30px;
+        font-family: 'Poppins', sans-serif;
+    }
+    #Ptext2 {
+        font-size: 11pt;
+        text-align: left;
+        top: 1600px;
+        left: 1050px;
+        line-height: 30px;
+        font-family: 'Poppins', sans-serif;
+    }
+    #Ptext3 {
+        font-size: 11pt;
+        text-align: left;
+        top: 2100px;
+        left: 380px;
         line-height: 30px;
         font-family: 'Poppins', sans-serif;
     }
